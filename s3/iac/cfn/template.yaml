@@ -1,0 +1,6 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: My s3 bucket
+Resources:
+  S3Bucket:
+  #https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-s3-bucket.html#aws-resource-s3-bucket--examples
+    Type: 'AWS::S3::Bucket'
