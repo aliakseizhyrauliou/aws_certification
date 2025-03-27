@@ -1,0 +1,1 @@
+So, i wanna to access s3 bucket so that my request from backend won't go outside of aws network
